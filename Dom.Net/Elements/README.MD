@@ -1,0 +1,1 @@
+﻿Elements are organized based on the categorization found here: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
